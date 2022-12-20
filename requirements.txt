@@ -1,2 +1,5 @@
 evernote3
 oauth2
+exif
+Pillow
+piexif
