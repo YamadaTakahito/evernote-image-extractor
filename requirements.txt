@@ -3,3 +3,4 @@ oauth2
 exif
 Pillow
 piexif
+gkeepapi
